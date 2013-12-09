@@ -1,0 +1,1 @@
+Okay, I'm starting to get the hang of it. I just added my crappiest mod and it seemed to work out fine. Still need to play around with the commands.
